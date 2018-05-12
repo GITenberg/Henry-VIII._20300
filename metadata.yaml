@@ -1,0 +1,29 @@
+_repo: Henry-VIII._20300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pollard, A. F. (Albert Frederick)
+    alias: Pollard, Albert Frederick
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '2013'
+    url: http://www.gutenberg.org/2009/agents/2013
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Pollard
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henry VIII, King of England, 1491-1547'
+- !lcc 'DA'
+title: Henry VIII.
+url: http://www.gutenberg.org/ebooks/20300
